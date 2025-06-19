@@ -1,0 +1,1 @@
+下载地址：https://www.modelscope.cn/models/dengcao/Qwen3-Reranker-4B
